@@ -1,0 +1,35 @@
+{
+	"name": "Aide_le_lutin",
+	"version": "1.0.0.0",
+	"description": "",
+	"id": "",
+	"unique-id": "mwt4th6fepr",
+	"viewport-width": 960,
+	"viewport-height": 1708,
+	"author": "Arrghe06",
+	"email": "arrghe.dev@gmail.com",
+	"website": "",
+	"orientations": "portrait",
+	"c2version": "244",
+	"c3version": "r458.2",
+	"ife": false,
+	"used-plugins": [
+		"TiledBg",
+		"Sprite",
+		"Audio",
+		"Keyboard",
+		"Touch",
+		"Text",
+		"Particles"
+	],
+	"used-behaviors": [
+		"Bullet",
+		"Fade",
+		"Sin",
+		"Platform",
+		"wrap",
+		"Flash",
+		"solid",
+		"Pin"
+	]
+}
